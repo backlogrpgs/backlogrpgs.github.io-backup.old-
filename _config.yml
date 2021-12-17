@@ -93,6 +93,32 @@ disqus:
 
 paginate: 10
 
+# ------------ Comments system ------------------
+comments: false
+
+# The URL for the staticman API bridge endpoint
+# You will want to modify some of the values:
+#  ${github-username}: the username of the account with which you publish your blog
+#  ${blog-repo}: the name of your blog repository in github
+#  master: this the branch out of which your blog is published, often master or gh-pages
+#  ${bridge_app_name}: the name you chose in Heroku for your bridge API
+#  comments: the so-called property, this defines the key in staticman.yml where the configuration is found
+#
+# for me, this line reads:
+# https://staticman-travisdownsio.herokuapp.com/v2/entry/travisdowns/travisdowns.github.io/master/comments
+staticman_url: https://staticman-backlogrpgs.herokuapp.com/v3/entry/backlogrpgs/backlogrpgs.github.io/main/comments
+
+
+# reCaptcha configuration info: the exact same site key and *encrypted* secret that you used in staticman.yml
+# I personally don't think the secret needs to be included in the generated site, but the staticman API bridge uses
+# it to ensure the site configuration and bridge configuration match (but why not just compare the site key?)
+reCaptcha:
+  siteKey: 6Le3MKwdAAAAAFLX36q9Xwx2wth-x9yxMmHG0KKq
+  secret: E9R/Y71dIRFl9PKoTDfcBupoUGGQa1aLJiHjV17Qbc+/MN0umQyC+r7yg3+SUwtwHmyaJ1vzGBUQVIfgSDklGYHDyRL0VdzwPDqiFsqOUbGyExhSi9lacHNLQcWCrAPUtvH75jPdjp5PT+qyh7CyFBl7daSszhlt8pQCcgsZC8bsYP6MsLxDqTEkDMViYnK8wUhXAk5PC+GtnhedA7rD0KAOZaPYgobmCtdB5asF/oPqnOSQs32WTxYvZcbwJZxziH+udirlFwrb0z3N6TbDe8eYbnfIvuCVTXk9N/+3Ga9R3qplqasooyJKUUnlQpFqxmtIxz2LDAyzF0UOCmXrC4VPPVGi9KgetknribPe4wJyLu4vgLvBGjg/i7KOZ1eh6lxn4Cosih7ddibhfckjMvREqIFgg08+EbqdGBlQj3lCkcuDQJMHvb1GnBB3rOEPZdkaNwkdoYn9I985rfNyY1I8nuTef5Jl8GcTIe9WcQSzEjewFnt1RuTJdvXS3yCBcUBSFwOfv135h4ZXImBORQIXzexQr0DnUOcXAS5S3noRZGT6iAa6eQsGdw0rokWEzh3VmFR8ApxtvgrhLGwQnQt0Kwu7BF/Yg5tni419uifw9WF9SlBccDw6GZ3efvOK/v1bn6M5ZkdJ67HLXJpeP2iwFersuXPHmYpiggpa740=
+
+
+
+
 # ------------ The following options are not recommended to be modified ------------------
 
 kramdown:
