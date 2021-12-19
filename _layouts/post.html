@@ -2,13 +2,6 @@
 layout: default
 # The posts' layout
 ---
-<head>
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8726247762986874"
-     crossorigin="anonymous"></script>
-</head>
-
-
-
 
 {% include lang.html %}
 
@@ -131,17 +124,18 @@ layout: default
   {% include panel.html toc=enable_toc %}
 
 </div> <!-- .row -->
-{% include advertisements.html %}
+
 <div class="row">
   <div class="col-12 col-lg-11 col-xl-8">
     <div id="post-extend-wrapper" class="pl-1 pr-1 pl-sm-2 pr-sm-2 pl-md-4 pr-md-4">
+
+{% include advertisements.html %}
 
     {% include post-nav.html %}
 
     {% if site.disqus.comments and page.comments %}
       {% include disqus.html %}
     {% endif %}
-
 
     </div> <!-- #post-extend-wrapper -->
 
