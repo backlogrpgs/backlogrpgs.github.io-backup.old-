@@ -5,7 +5,7 @@ date: 2022-01-03 14:00:00
 categories: Pc
 tags: 2010 JRPG humor
 ---
-<a target="_blank" href="https://res.cloudinary.com/backlogrpgs/image/upload/v1640969465/cstw/png/banner.png" title="Cthulhu Saves the World">
+<a target="_blank" href="https://res.cloudinary.com/backlogrpgs/image/upload/v1640969465/cstw/png/banner.png" title="Cthulhu Saves the World>
 	<picture>
     <source srcset="https://res.cloudinary.com/backlogrpgs/image/upload/v1640969846/cstw/banner.webp">
     <img src="https://res.cloudinary.com/backlogrpgs/image/upload/v1640969820/cstw/jpg/banner.jpg" alt="Banner of the post, showing artwork of Cthulhu and the game's title, Cthulhu Saves the World."  style="width:100%;border:4px solid #7b7d7d;">
@@ -140,7 +140,7 @@ I think it’s the only mode worthy playing after beating the game, more so if y
 <h2>
 <div style="float:left;">Final thoughts</div> 
 <div style="display:flex;margin-left:200px;"><img src="https://res.cloudinary.com/backlogrpgs/image/upload/v1641221131/cstw/chars.gif" alt="All the playable characters walking left and right"> 
-</div> <div style="clear: left;"/> </h2>
+</div> <div style='clear: left;'/> </h2>
 
 
 Cthulhu Saves the World is a modern take on JRPGs. By modern I don’t mean that it got rid of older mechanics, on the contrary, the game made them more engaging and less burdensome for the player. It’s necessary to respect developers that, on a budget title, still think about ways to make a game more fun and less taxing.
