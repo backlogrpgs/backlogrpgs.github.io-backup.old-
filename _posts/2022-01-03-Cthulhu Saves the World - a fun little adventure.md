@@ -5,7 +5,7 @@ date: 2022-01-03 14:00:00
 categories: Pc
 tags: 2010 JRPG humor
 ---
-<a target="_blank" href="https://res.cloudinary.com/backlogrpgs/image/upload/v1640969465/cstw/png/banner.png" title="Cthulhu Saves the World>
+<a target="_blank" href="https://res.cloudinary.com/backlogrpgs/image/upload/v1640969465/cstw/png/banner.png" title="Cthulhu Saves the World">
 	<picture>
     <source srcset="https://res.cloudinary.com/backlogrpgs/image/upload/v1640969846/cstw/banner.webp">
     <img src="https://res.cloudinary.com/backlogrpgs/image/upload/v1640969820/cstw/jpg/banner.jpg" alt="Banner of the post, showing artwork of Cthulhu and the game's title, Cthulhu Saves the World."  style="width:100%;border:4px solid #7b7d7d;">
