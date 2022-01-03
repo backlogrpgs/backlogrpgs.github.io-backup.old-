@@ -1,6 +1,6 @@
 ﻿---
 layout: post
-title: "Cthulhu Saves the World - a fun little adventure"
+title: Cthulhu Saves the World - a fun little adventure
 date: 2022-01-03 14:00:00
 categories: Pc
 tags: 2010 JRPG humor
