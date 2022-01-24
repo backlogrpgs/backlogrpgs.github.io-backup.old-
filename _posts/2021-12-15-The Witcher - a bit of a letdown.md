@@ -68,7 +68,7 @@ The game isn’t always serious, as it has a decent amount of humorous moments. 
 <div class="video-responsive">
 
 
-<iframe style="width:560; height=315; border: 4px solid #7b7d7d;" src="https://www.youtube.com/embed/kefocMQJikg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe style="width:560; height=315; border: 4px solid #7b7d7d;" src="https://www.youtube-nocookie.com/embed/Do55Oy5i3jU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 

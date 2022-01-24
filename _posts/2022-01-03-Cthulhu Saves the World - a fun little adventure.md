@@ -21,6 +21,7 @@ The game was originally released as a digital title for the Xbox 360 in December
 
 Some of the most interesting additions were the Cthulhu’s Angels game mode, a director’s commentary, character art and expanded dialogues.
 
+<hr>
 <h2>The Narrative</h2>
 
 Right at the start it’s easy to understand that the game doesn’t take itself seriously and wants to make you laugh. The plot, characters, NPCs, dialogues, the descriptions of objects (like bookshelves and tombstones) and even monsters, everything has a humorous nature, so remember that going forward.
@@ -58,6 +59,7 @@ But how good is the humor?
 
 Initially, I must say I enjoy titles with a more lighthearted, humorous tone (like the Disgaea series). I think they are a nice change of pace from all these ultra-mature games we have nowadays. But regarding Cthulhu Saves the World, I can summarize it as hit or miss. Probably the humor was fresher in 2010, but now it felt contrived. I won’t deny that the game made me chuckle a lot and that it has some smart gag here and there, however only on a few stances I got a full laugh. I acknowledge humor is very subjective, so likely it wasn’t for me.
 
+<hr>
 <h2>Presentation</h2>
 
 Graphically the game is nothing outstanding, even for 16-bit standards. I sincerely thought the game was developed on some instance of RPG Maker, and I bet I wasn’t the only one. But the developers already explained that they designed a custom engine with Microsoft XNA and C. 
@@ -66,6 +68,7 @@ The game has a few cutscenes presented by a succession of static panels, similar
 
 As for the soundtrack, it is great, I love it. It is available for free on the [developers’ website](https://href.li/?http://zeboyd.com/free-stuff/), alongside the design document for the game. It’s a fine read for those interested in game design or curious about how the game changed while in development.
 
+<hr>
 <h2>Mechanics</h2>
 
 <h3>Exploring</h3>
@@ -111,7 +114,7 @@ To spice up combat, every turn enemies will grow more powerful. Naturally, you n
 To minimize the resource management and to make the random battles less exhausting, after winning a fight all characters will fully recover, regaining all their HP, recovering from status ailments and reviving if dead. They will also regain some MP, the only resource that still needs some care. There are healing spots near every boss room that will recover all the characters MP, leaving the party ready for the challenge ahead.
 
 <div class="video-responsive">
-<iframe style="width:560; height=315; border: 4px solid #7b7d7d;" src="https://www.youtube.com/embed/jlWp7MYE6GQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe style="width:560; height=315; border: 4px solid #7b7d7d;" src="https://www.youtube-nocookie.com/embed/MJ95_-5sjMY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 Since the game is very generous with health, there are only two healing items: potions and 1-Ups. Potions are used during combat for reviving dead characters, healing status ailments and recovering HP, while a 1-Up lets you retry a battle when defeated, instead of getting a game over. Interestingly, this item that should be a life saver is somewhat useless because it’s possible to save your progress at any point, except during battles. Anyway, these items are found in chests on cities and dungeons and can’t be bought in stores.
@@ -120,6 +123,7 @@ I enjoy how the developers handled the genre’s biggest complaints, but it’s 
 
 Like is most RPGs, after acquiring enough experience your characters will gain levels. Surprisingly, you will be able to choose between two sets of attributes or between two different skills, depending on the level your character is. Just be aware that around level 40 you will stop receiving new skills and will be able to choose only between different attributes.
 
+<hr>
 <h3>Extras</h3>
 
 There are a few game modes to try after beating the game: Cthulhu’s Angels, Score Attack, Highlander and Overkill. The most interesting is Cthulhu’s Angels because it offers a second quest with a somewhat original story, two new playable characters (three if you count a new secret boss) and never-before-seen enemies. 
@@ -137,6 +141,7 @@ On this new story, Cthulhu forms a team of four girls to perform heroic deeds in
 
 I think it’s the only mode worthy playing after beating the game, more so if you enjoyed the humor and mechanics. 
 
+<hr>
 <h2>
 <div style="float:left;">Final thoughts</div> 
 <div style="display:flex;margin-left:200px;"><img src="https://res.cloudinary.com/backlogrpgs/image/upload/v1641221131/cstw/chars.gif" alt="All the playable characters walking left and right"> 
