@@ -85,7 +85,7 @@ img_cdn:
 avatar: /assets/mainsite/avatar.png
 
 # boolean type, the global switch for ToC in posts.
-toc: true
+toc: false
 
 disqus:
   comments: true  # boolean type, the global switch for posts comments.
