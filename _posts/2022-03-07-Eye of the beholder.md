@@ -3,7 +3,7 @@ layout: post
 title: "Eye of the Beholder - Let's play Mazes and Monsters"
 date: 2022-03-07 03:02:00
 categories: Pc
-tags: 1991	Dungeons-&-Dragons dungeon-crawler real-time
+tags: 1991	dungeons-&-dragons dungeon-crawler real-time
 ---
 
 <a target="_blank" href="https://res.cloudinary.com/backlogrpgs/image/upload/v1646461753/eob1/png/eob1banner.png" title="Eye of the Beholder">
