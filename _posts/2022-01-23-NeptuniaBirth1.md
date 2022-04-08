@@ -253,10 +253,10 @@ An exclusive feature of the CPUs is their ability to sacrifice 20% of their max 
 
 
 
-<h3>
+
 <div style="float:left;"><h3>Lily System</h3></div> 
 <div style="display:flex;margin-left:200px;margin-top:5px;"><img src="https://res.cloudinary.com/backlogrpgs/image/upload/v1642987612/neprebirth1/nepbit.gif" alt="Neptune in 8-bit style" width="21" height="24"> 
-</div> <div style='clear: left;'></div>  </h3>
+</div> <div style='clear: left;'></div>
 
 
 This mechanic allows players to pair an active party member with an idle character. Partnered characters will gain new passive abilities (more EXP, less waiting time between turns, less SP for skills, etc.), new Ex Finishers and new Exe Drive Skills. But these skills are acquired only when their level of affinity, or Lily Rank, reaches a certain level. The more battles two characters fight teamed up, the more their Lily Rank increases. Another benefit is being able to swap between paired characters throughout combat. It's like having a backup team in case your party is about to die.
